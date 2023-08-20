@@ -95,7 +95,7 @@ public class Matrix3 extends MatrixSecondary {
                 return false;
             }
         }
-        return false;
+        return true;
     }
 
     private void pRef() {
